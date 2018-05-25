@@ -62,42 +62,33 @@
         },
         {
             "position": "Mentor",
-            "firstname": "Erica",
-            "lastname": "Lee",
-            "email": "nlee16@illinois.edu",
-            "netid": "nlee16",
-            "year": "Alumna (Graduated May '17)",
-            "major": "Computer Science",
+            "firstname": "Deepika",
+            "lastname": "Ramachandran",
+            "email": "dramac4@illinois.edu",
+            "netid": "dramac4",
+            "year": "Junior",
+            "major": "",
             "interests": [
-                "Systems",
-                "Security"
+                "Data Visualization",
+                "Big Data"
             ],
             "experience": [
-                "Adobe Intern",
-                "Microsoft Intern",
-                "Co-Op at Kimberly-Clark",
-                "241 TA",
-                "Undergraduate Research Assistant"
+                "Worked at Mathnasium for 2 summers",
+                "WCS Mentoring Committee for 2017-2018 Year"
             ],
             "hobbies": [
-                "Running",
+                "Going to the gym",
                 "Cooking",
-                "Photography",
-                "Traveling",
-                "Exploring around"
+                "Watching Gilmore Girls",
+                "Gymnastics"
             ],
-            "fact": "I have two scars on my forehead, both from falling down the stairs",
+            "fact": "I've had braces twice!",
             "place": "Des Plaines, IL",
             "ask": [
-                "CS241",
-                "Switching to CS",
-                "Grad School",
-                "Bioengineering",
-                "Engineering Minors",
-                "Make-up and Beauty Stuff",
-                "Half Marathon Training"
+                "Gilmore Girls", 
+                "Gymnastics"
             ],
-            "advice": "Everything will be okay"
+            "advice": "Making mistakes is okay, but make sure to treat them as a learning opportunity."
         },
         {
             "position": "Head of Infrastructure",
